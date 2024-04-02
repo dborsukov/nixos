@@ -8,8 +8,6 @@ Deployment:
 2. Rebuild system: `just rs`
 2. Rebuild home: `just rh`
 
-See `legacy` branch for old [stow] based configs.
-
 [home-manager]: https://github.com/nix-community/home-manager
 [just]: https://just.systems/
 [stow]: https://www.gnu.org/software/stow/
